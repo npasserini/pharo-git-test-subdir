@@ -1,0 +1,14 @@
+{
+	"category" : "IcebergTestSubdir",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IcebergTestClassInSubdir",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
